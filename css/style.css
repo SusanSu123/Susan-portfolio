@@ -1247,4 +1247,15 @@ ul.slides li {
 	.subscribe {
 	    padding-bottom: 40px;
 	}
+	
+	#form{
+		margin: 30px;
+	}
+}
+
+@media screen and (max-width:798px) {
+	.col-md-8{
+		width: 100%;
+		margin-left: 20px;
+	}
 }
